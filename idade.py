@@ -1,5 +1,7 @@
 from datetime import datetime
 
+#comentario Hector
+
 def verificar_idade():
     try:
         ano_atual = datetime.now().year
